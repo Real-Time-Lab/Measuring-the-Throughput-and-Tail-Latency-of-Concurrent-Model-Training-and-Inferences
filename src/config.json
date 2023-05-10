@@ -1,0 +1,16 @@
+{
+  "train": [
+    {
+      "arch": "resnet152",
+      "workers": 1,
+      "epochs": 5000,
+      "batch_size": 8,
+      "image_size": 224,
+      "device": "cuda"
+    }
+  ],
+  "infer": [{
+      "arch": "None"
+    }
+  ]
+}
