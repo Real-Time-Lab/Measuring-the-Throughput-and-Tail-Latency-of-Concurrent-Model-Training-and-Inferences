@@ -1,4 +1,4 @@
-# Measuring the Throughput and Tail Latency of Concurrent Model Training and Inferences
+# Corun: Concurrent Inference and Continuous Training at the Edge for Cost-Efficient AI-Based Mobile Image Sensing
 ## "src" folder:
  - main.py
    - implement single training and single inference tasks to run concurrently
