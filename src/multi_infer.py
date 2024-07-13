@@ -13,7 +13,7 @@ import warnings
 warnings.filterwarnings("ignore")
 
 cnn_model_list = ['alexnet',  'densenet121',  'efficientnet_v2_l', \
-                  'googlenet', 'inception_v3',  'mobilenet_v3_small',  'resnet50','vgg16']
+                  'googlenet', 'inception_v3',  'mobilenet_v3_small',  'resnet50','vgg16',  'vit_b_16','vit_l_32'] ### modify on july 2024
 yolo_model_list = [ 'yolov5s']
 deeplab_model_list = ['deeplabv3_resnet50']
 model_list = cnn_model_list + yolo_model_list + deeplab_model_list
