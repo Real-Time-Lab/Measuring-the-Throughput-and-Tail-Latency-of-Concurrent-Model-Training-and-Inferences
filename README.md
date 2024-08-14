@@ -1,4 +1,6 @@
 # Corun: Concurrent Inference and Continuous Training at the Edge for Cost-Efficient AI-Based Mobile Image Sensing
+## Please cite this work as follows:
+Y. Liu, A. Andhare, K. D. Kang, Corun: Concurrent Inference and Continuous Training at the Edge for Cost-Efficient AI-Based Mobile Image Sensing, Sensors, 2024, 24(16), 5262.
 ## "src" folder:
  - main.py
    - implement single training and single inference tasks to run concurrently
